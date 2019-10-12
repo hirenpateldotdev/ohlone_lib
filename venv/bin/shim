@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+export NODE_PATH=/Users/omairnasri/Desktop/OhloneLibary/venv/lib/node_modules
+export NPM_CONFIG_PREFIX=/Users/omairnasri/Desktop/OhloneLibary/venv
+export npm_config_prefix=/Users/omairnasri/Desktop/OhloneLibary/venv
+exec venv/bin/node "$@"

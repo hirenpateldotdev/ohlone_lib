@@ -1,0 +1,27 @@
+<html>
+
+	<head>
+		<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+		<script src="/assets/todo-list.js"></script>
+
+		<link href="/assets/styles.css" rel="stylesheet" type="text/css"/>
+
+		<title>Reservation System</title>
+	</head>
+
+	<body>
+		<h1>Database </h1>
+	<div id="data-table">
+		<ul>
+			<% for(var i = 0; i < emails.length; i++) 
+			{ %> 
+			<li> <%= emails[i].email %> </li>
+			<% } %> 
+			
+		</ul>
+
+	</div>
+	
+	</body>
+
+</html>

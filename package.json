@@ -1,0 +1,31 @@
+{
+  "name": "OhloneLibary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omairnasri/Ohlone-Library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omairnasri/Ohlone-Library/issues"
+  },
+  "homepage": "https://github.com/omairnasri/Ohlone-Library#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.0",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.11",
+    "node": "^11.9.0",
+    "nodemailer": "^5.1.1",
+    "nodemon": "^1.19.1",
+    "urlencoded-parser": "^1.0.0"
+  }
+}
