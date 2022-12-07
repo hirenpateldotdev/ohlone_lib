@@ -19,9 +19,9 @@
   "homepage": "https://github.com/omairnasri/Ohlone-Library#readme",
   "dependencies": {
     "jsonwebtoken": "^8.5.0",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "mongoose": "^5.4.11",
     "node": "^11.9.0",
     "nodemailer": "^5.1.1",
